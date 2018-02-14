@@ -36,6 +36,6 @@ let sayHiToGrandma = function(string) {
   }
 }
 
-sayHiToGrandma('HELLO')
 sayHiToGrandma('hello')
+sayHiToGrandma('HELLO')
 sayHiToGrandma("I love you, Grandma")
