@@ -23,4 +23,4 @@ let sayHiToGrandma = function(string) {
     return "I can\'t hear you!"
   }
 }
-sayHiToGrandma('test')
+sayHiToGrandma('hello')
