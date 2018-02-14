@@ -1,3 +1,3 @@
 let shout = function(string) {
-  return `${string}.uppercase`
+  return `${string}.toUpperCase`
 }
