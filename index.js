@@ -24,12 +24,12 @@ var uppercase = "HELLO!"
 var mixedCase = 'Hi there!'
 
 
-let sayHiToGrandma = function() {
+let sayHiToGrandma = function(string) {
   if(lowercase.toLowerCase() === lowercase) {
     return "I can\'t hear you!"
   } else if (uppercase.toUpperCase() === uppercase) {
     return 'YES INDEED'
-  }else {
+  }else(string === "I love you, Grandma") {
     return  "I love you, too."
   }
 }
