@@ -31,5 +31,5 @@ let sayHiToGrandma = function() {
     return 'YES INDEED'
   }
 }
-sayHiToGrandma('hello')
+
 sayHiToGrandma('HELLO')
